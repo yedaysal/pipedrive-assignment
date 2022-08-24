@@ -22,15 +22,5 @@ app.listen(port, () => {
     console.log(`Pipedrive App listening on http://localhost:${port}`)
 })
 
-app.get('/', (req, res) => {
-    res.render("index")
-})
-
-app.get('/useradd', (req, res) => {
-    res.render("useradd")
-})
-
-app.get('/viewusers', (req, res) => {
-    res.render("viewusers")
-})
-
+// Load routers
+app.use("/", require("./server/routes/router"))
