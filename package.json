@@ -1,0 +1,30 @@
+{
+  "name": "pipedrive-app",
+  "version": "1.0.0",
+  "description": "pipedrive interview application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yedaysal/pipedrive-app.git"
+  },
+  "author": "Yunus Emre Daysal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yedaysal/pipedrive-app/issues"
+  },
+  "homepage": "https://github.com/yedaysal/pipedrive-app#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}
