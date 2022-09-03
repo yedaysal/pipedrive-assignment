@@ -1,12 +1,17 @@
 const express = require("express")
-const route = express.Router()
+const router = express.Router()
 const services = require("../services/render")
+const controller = require("../controllers/controller")
 
 
-route.get('/', services.homeRoutes)
+router.get('/', services.homeRoutes)
 
-route.get('/useradd', services.useradd)
+router.get('/useradd', services.useradd)
 
-route.get('/viewusers', services.viewusers)
+router.get('/viewusers', services.viewusers)
 
-module.exports = route
+// API routes
+router.post('/api/create', controller.createUser)
+router.get('/api/gists', controller.find)
+
+module.exports = router
