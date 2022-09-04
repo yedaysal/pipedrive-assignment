@@ -5,32 +5,33 @@ var Gists = require("../models/gistModel")
 // Create and save a new gist user
 exports.createUser = (req, res) => {
 
+    console.log(req.body)
     // Validate request
     if(!req.body){
         res.status(400).send({message : "Content cannot be empty!"})
         return 
     }
 
-    // New gist
-    const user = new Users({
-        user : req.body.user,
+    // New user
+    let user = new Users({
+        user : req.body.username,
     })
 
-    // Save the gist in the DB
+    // Save the user in the DB
     user
         .save(user)
         .then(data => {
-            res.send(data)
+            res.send("Success! " + data)
         })
         .catch(error => {
             res.status(500).send({
-                message : "Some error occured while creating the gist! " + error.message
+                message : "Some error occured while creating the user! " + error.message
             })
         })
 }
 
-// Retrieve gist(s)
-exports.find = (req, res) => {
+// Retrieve gists
+exports.getGists = (req, res) => {
 
     Gists.find()
         .then(gist => {
@@ -39,6 +40,20 @@ exports.find = (req, res) => {
         .catch(error => {
             res.status(500).send({
                 message : "Some error occured while retrieving gists! " + error.message
+            })
+        })
+}
+
+// Retrieve users
+exports.getUsers = (req, res) => {
+
+    Users.find()
+        .then(user => {
+            res.send(user)
+        })
+        .catch(error => {
+            res.status(500).send({
+                message : "Some error occured while retrieving users! " + error.message
             })
         })
 }

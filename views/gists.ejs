@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gists</title>
+</head>
+<body>
+    <h1>GISTS</h1>
+    <table border="1">
+        <tr>
+          <th>Gist ID</th>
+          <th>Gist Owner</th>
+          <th>Gist URL</th>
+          <th>Gist Creation Time</th>
+        </tr>
+        <% for(var i=0; i<gists.length; i++){ %>
+        <tr>
+          <td><%= gists[i].gist_id%></td>
+          <td><%= gists[i].gist_owner%></td>
+          <td><a href="<%= gists[i].gist_url%>"><%= gists[i].gist_url%></a></td>
+          <td><%= gists[i].gist_created_at%></td>
+        </tr>
+        <% } %>
+      </table>
+      
+</body>
+</html>
