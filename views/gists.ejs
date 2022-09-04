@@ -10,6 +10,7 @@
     <h1>GISTS</h1>
     <table border="1">
         <tr>
+          <th>#</th>
           <th>Gist ID</th>
           <th>Gist Owner</th>
           <th>Gist URL</th>
@@ -17,13 +18,15 @@
         </tr>
         <% for(var i=0; i<gists.length; i++){ %>
         <tr>
+          <td><%= i+1 %></td>
           <td><%= gists[i].gist_id%></td>
           <td><%= gists[i].gist_owner%></td>
           <td><a href="<%= gists[i].gist_url%>"><%= gists[i].gist_url%></a></td>
           <td><%= gists[i].gist_created_at%></td>
         </tr>
         <% } %>
-      </table>
-      
+    </table>
+    <br>
+    <a href="/">Click to go to Home Page...</a>
 </body>
 </html>

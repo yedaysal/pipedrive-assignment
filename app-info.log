@@ -1,0 +1,124 @@
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:50:58.962Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:02.271Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:33.442Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:36.904Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:40.583Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:43.188Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:49.836Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:54.936Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:51:57.599Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:09.025Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:10.876Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:13.013Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:17.450Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:25.609Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:27.824Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:34.656Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:40.813Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:42.870Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:52:51.056Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:53:04.775Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:53:32.345Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T20:59:04.344Z"}
+info: Cron job completed! {"timestamp":"2022-09-04T21:00:00.014Z"}
+info: getUsersStatusCode: 200 {"timestamp":"2022-09-04T21:00:00.177Z"}
+info: getUsersStatusCode: 200 {"timestamp":"2022-09-04T21:00:00.179Z"}
+info: getUsersStatusCode: 200 {"timestamp":"2022-09-04T21:00:00.180Z"}
+info: getGistsStatusCode: 200 {"timestamp":"2022-09-04T21:00:00.504Z"}
+info: getGistsStatusCode: 200 {"timestamp":"2022-09-04T21:00:00.589Z"}
+info: getGistsStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.067Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.177Z"}
+info: A deal with gist id: b9210e53c9d17b942faa97d524943f02 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.177Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.240Z"}
+info: A deal with gist id: dfbc5d671e9045052dd2f7462640bcdb already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.241Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.249Z"}
+info: A deal with gist id: 02ecc78e5924a58dbc8fa162f02f05a3 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.249Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.256Z"}
+info: A deal with gist id: a7bf06f3c02fb1d48b5209535014db99 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.256Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.299Z"}
+info: A deal with gist id: 55f0c9b5d438b37e46f4355266a7cb57 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.299Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.306Z"}
+info: A deal with gist id: 7fac7ade030c88244cacbb43d09d5832 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.306Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.374Z"}
+info: A deal with gist id: cd060b641a23c1ab0d7d552502c33762 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.374Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.392Z"}
+info: A deal with gist id: bcc94a580612bc5c4e7389ac0f90c3b0 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.392Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.406Z"}
+info: A deal with gist id: be7faa685988a8b37c7355d134f0102e already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.406Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.417Z"}
+info: A deal with gist id: 79ed598fc439ccabc8e3e334fa0441b8 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.417Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.418Z"}
+info: A deal with gist id: 4b20eaed6f1007a687edc21ccdcd63ce already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.418Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.427Z"}
+info: A deal with gist id: 80a7e17d70047b00449efb05422fe855 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.427Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.437Z"}
+info: A deal with gist id: 4e955800c281ded6bd2810e5089a4c61 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.437Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.451Z"}
+info: A deal with gist id: 7e11ac38054deed0c181647cd4b30d36 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.451Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.454Z"}
+info: A deal with gist id: 69bb7f232a51e2b857d82ed9a292eae5 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.454Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.467Z"}
+info: A deal with gist id: 9f04f1bbe95fb5e228474849d08fa04a already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.467Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.499Z"}
+info: A deal with gist id: 06601a0e501deb55fad65cb8b4b0f6ed already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.499Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.537Z"}
+info: A deal with gist id: ef6a09761bafd6e2063ed2b8b40396b2 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.537Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.546Z"}
+info: A deal with gist id: 593a5964d5c3418d9dd4572c87822e25 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.547Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.570Z"}
+info: A deal with gist id: 5ad4ff2f1284d0e685ba2ee06147d903 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.570Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.590Z"}
+info: A deal with gist id: 80c3ecae8886e56b6259f2b0b79d81e8 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.590Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.597Z"}
+info: A deal with gist id: 0495383ac91261372c56fe523a813b50 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.598Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.608Z"}
+info: A deal with gist id: 6730d40e5a03018033a7a7eecbde5452 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.608Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.610Z"}
+info: A deal with gist id: 2e2c37ee31768a671b772c9f3e6a98e1 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.611Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.618Z"}
+info: A deal with gist id: 1c5d2b48a43e4223f2d3bf00ec2fe376 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.618Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.624Z"}
+info: A deal with gist id: c795ee163dd8522505d93b8bbedf0c82 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.624Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.625Z"}
+info: A deal with gist id: 28bc9901497fe68247c54cabce1067a5 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.625Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.634Z"}
+info: A deal with gist id: 6a11aabd8ced8ce93facf641890742e7 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.634Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.645Z"}
+info: A deal with gist id: 7daef370101e20ac87bbb288b50cc735 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.645Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.694Z"}
+info: A deal with gist id: fbbbd82299a55ff8e9c9ad5cad96f0b9 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.694Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.697Z"}
+info: A deal with gist id: 55a166bdb0380749beea02817a60ef2e already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.698Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.818Z"}
+info: A deal with gist id: bc588dfc4ceba1b713a4056b3f3cfcba already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.819Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.819Z"}
+info: A deal with gist id: c7c2b52aaac92c828623372faea3f202 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.819Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.824Z"}
+info: A deal with gist id: 4f616d59f15a4776279cf15c703c385f already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.824Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:01.875Z"}
+info: A deal with gist id: 2cb02b3c7710a46f42474e4a3e53f170 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:01.875Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:00:02.145Z"}
+info: A deal with gist id: 793b33d763cec76b9ac12547c87accbe already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:00:02.145Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:02:12.657Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:02:18.425Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:02:24.309Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:02:42.491Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:03:45.495Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:03:46.020Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:03:48.446Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:03:52.714Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:09:23.195Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:09:45.799Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:09:49.194Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:09:50.472Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:10:23.778Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:10:28.109Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:10:31.241Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:10:35.637Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:09.222Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:15.065Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:18.222Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:22.114Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:23.306Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:26.773Z"}
+info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:29.516Z"}

@@ -11,7 +11,7 @@ exports.userAdd = (req, res) => {
 exports.users = (req, res) => {
     
     axios
-        .get("http://localhost:80/api/users")
+        .get("http://localhost:8080/api/users")
         .then(response => {
             res.render("users", {users: response.data})
         })
@@ -23,7 +23,7 @@ exports.users = (req, res) => {
 exports.gists = (req, res) => {
 
     axios
-        .get("http://localhost:80/api/gists")
+        .get("http://localhost:8080/api/gists")
         .then(response => {
             res.render("gists", {gists: response.data})
         })
