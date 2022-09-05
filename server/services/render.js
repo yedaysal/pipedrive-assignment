@@ -30,7 +30,5 @@ exports.gists = (req, res) => {
         .catch(err => {
             res.send(err)
         })
-
-
-    
+ 
 }

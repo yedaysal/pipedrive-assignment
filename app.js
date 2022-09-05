@@ -105,7 +105,8 @@ var cronJob = cron.job("0 */2 * * *", function(){
                                     // Make an HTTP POST request to create a deal with the current gist id
                                     axios
                                         .post('https://taskcompany.pipedrive.com/api/v1/deals?api_token=e7eb4d7e1119d190e7079fb8a4ec16779f7c859f', {
-                                            title: id
+                                            title: id,
+                                            add_time: created_at
                                         })
                                         .then(res => {
                                             // Log create deal status code to console and a file
@@ -124,10 +125,10 @@ var cronJob = cron.job("0 */2 * * *", function(){
                                                     // If no record found, then create one
                                                     if(docs[0] == undefined){
                                                         let gist = new Gists({
-                                                            gist_id : id,
-                                                            gist_owner : owner,
-                                                            gist_url : url,
-                                                            gist_created_at : created_at
+                                                            gist_id: id,
+                                                            gist_owner: owner,
+                                                            gist_url: url,
+                                                            gist_created_at: created_at
                                                         })
                                                         
                                                         gist
