@@ -1,7 +1,16 @@
 # pipedrive-app
 
+### build
+```console
 docker build -t yedaysal/pipedrive-app:1.0 .
+```
 
+### run
+```console
 docker run -d -p 8000:8080 --name pipedrive-app yedaysal/pipedrive-app:1.0
+```
 
-docker exec -it pipedrive-app /bin/bashh
+### exec
+```console
+docker exec -it pipedrive-app /bin/bash
+```
