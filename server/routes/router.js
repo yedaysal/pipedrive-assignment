@@ -3,13 +3,10 @@ const router = express.Router()
 const services = require("../services/render")
 const controller = require("../controllers/controller")
 
-
+// Routes
 router.get('/', services.homeRoutes)
-
 router.get('/userAdd', services.userAdd)
-
 router.get('/users', services.users)
-
 router.get('/gists', services.gists)
 
 // API routes

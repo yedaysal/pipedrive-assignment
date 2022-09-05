@@ -122,3 +122,82 @@ info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T
 info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:23.306Z"}
 info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:26.773Z"}
 info: Pipedrive App listening on http://localhost:8080 {"timestamp":"2022-09-04T21:11:29.516Z"}
+info: Cron job completed! {"timestamp":"2022-09-04T21:20:00.021Z"}
+info: getUsersStatusCode: 200 {"timestamp":"2022-09-04T21:20:00.177Z"}
+info: getUsersStatusCode: 200 {"timestamp":"2022-09-04T21:20:00.179Z"}
+info: getUsersStatusCode: 200 {"timestamp":"2022-09-04T21:20:00.180Z"}
+info: getGistsStatusCode: 200 {"timestamp":"2022-09-04T21:20:00.504Z"}
+info: getGistsStatusCode: 200 {"timestamp":"2022-09-04T21:20:00.564Z"}
+info: getGistsStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.020Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.240Z"}
+info: A deal with gist id: b9210e53c9d17b942faa97d524943f02 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.240Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.264Z"}
+info: A deal with gist id: dfbc5d671e9045052dd2f7462640bcdb already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.264Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.277Z"}
+info: A deal with gist id: 7fac7ade030c88244cacbb43d09d5832 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.277Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.287Z"}
+info: A deal with gist id: 02ecc78e5924a58dbc8fa162f02f05a3 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.287Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.291Z"}
+info: A deal with gist id: 55f0c9b5d438b37e46f4355266a7cb57 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.291Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.328Z"}
+info: A deal with gist id: 7e11ac38054deed0c181647cd4b30d36 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.328Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.469Z"}
+info: A deal with gist id: 06601a0e501deb55fad65cb8b4b0f6ed already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.469Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.490Z"}
+info: A deal with gist id: bcc94a580612bc5c4e7389ac0f90c3b0 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.490Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.501Z"}
+info: A deal with gist id: cd060b641a23c1ab0d7d552502c33762 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.501Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.505Z"}
+info: A deal with gist id: 4b20eaed6f1007a687edc21ccdcd63ce already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.505Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.508Z"}
+info: A deal with gist id: 79ed598fc439ccabc8e3e334fa0441b8 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.508Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.524Z"}
+info: A deal with gist id: 4e955800c281ded6bd2810e5089a4c61 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.524Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.525Z"}
+info: A deal with gist id: 6730d40e5a03018033a7a7eecbde5452 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.525Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.533Z"}
+info: A deal with gist id: 28bc9901497fe68247c54cabce1067a5 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.533Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.570Z"}
+info: A deal with gist id: 7daef370101e20ac87bbb288b50cc735 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.570Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.618Z"}
+info: A deal with gist id: be7faa685988a8b37c7355d134f0102e already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.618Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.624Z"}
+info: A deal with gist id: 0495383ac91261372c56fe523a813b50 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.624Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.657Z"}
+info: A deal with gist id: 2e2c37ee31768a671b772c9f3e6a98e1 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.658Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.664Z"}
+info: A deal with gist id: 793b33d763cec76b9ac12547c87accbe already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.665Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.665Z"}
+info: A deal with gist id: 5ad4ff2f1284d0e685ba2ee06147d903 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.665Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.667Z"}
+info: A deal with gist id: c795ee163dd8522505d93b8bbedf0c82 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.667Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.667Z"}
+info: A deal with gist id: 80c3ecae8886e56b6259f2b0b79d81e8 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.667Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.699Z"}
+info: A deal with gist id: a7bf06f3c02fb1d48b5209535014db99 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.699Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.772Z"}
+info: A deal with gist id: 55a166bdb0380749beea02817a60ef2e already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.772Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.774Z"}
+info: A deal with gist id: 593a5964d5c3418d9dd4572c87822e25 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.774Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.852Z"}
+info: A deal with gist id: 80a7e17d70047b00449efb05422fe855 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.852Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.892Z"}
+info: A deal with gist id: 9f04f1bbe95fb5e228474849d08fa04a already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.892Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.893Z"}
+info: A deal with gist id: 2cb02b3c7710a46f42474e4a3e53f170 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.893Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.900Z"}
+info: A deal with gist id: 6a11aabd8ced8ce93facf641890742e7 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.900Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.903Z"}
+info: A deal with gist id: 4f616d59f15a4776279cf15c703c385f already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.903Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:01.905Z"}
+info: A deal with gist id: fbbbd82299a55ff8e9c9ad5cad96f0b9 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:01.905Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:02.067Z"}
+info: A deal with gist id: 69bb7f232a51e2b857d82ed9a292eae5 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:02.067Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:02.091Z"}
+info: A deal with gist id: ef6a09761bafd6e2063ed2b8b40396b2 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:02.091Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:02.148Z"}
+info: A deal with gist id: bc588dfc4ceba1b713a4056b3f3cfcba already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:02.148Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:02.177Z"}
+info: A deal with gist id: c7c2b52aaac92c828623372faea3f202 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:02.177Z"}
+info: searchDealStatusCode: 200 {"timestamp":"2022-09-04T21:20:02.186Z"}
+info: A deal with gist id: 1c5d2b48a43e4223f2d3bf00ec2fe376 already exists in Pipedrive! No action will be taken! {"timestamp":"2022-09-04T21:20:02.186Z"}
