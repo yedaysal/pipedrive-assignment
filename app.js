@@ -48,14 +48,13 @@ var cronJob = cron.job("0 */2 * * *", function(){
     axios
     .get("http://localhost:8080/api/users")
     .then(res => {
-        //console.log(res.data)
+    
         // Iterate each user
         for(var i=0; i<res.data.length; i++){
             // Log get users status code to both console and log file
             console.log(`getUsersStatusCode: ${res.status}`)
             logger.log("info",`getUsersStatusCode: ${res.status}`)
-            //console.log(res.data[i].user)
-            
+                        
             // Make an HTTP GET request for each user to query their public gists
             axios
             .get("https://api.github.com/users/" + res.data[i].user + "/gists")
@@ -63,19 +62,10 @@ var cronJob = cron.job("0 */2 * * *", function(){
                 // Log get gists status code to both console and log file
                 console.log(`getGistsStatusCode: ${res.status}`)
                 logger.log("info", `getGistsStatusCode: ${res.status}`)
-                //console.log(res);
-
+                
                 // Iterate each gist
                 for(var i = 0; i < res.data.length; i++){
-                    /*
-                    console.log("-------------------------------------------------------------")
-                    console.log(res.data[i].id)
-                    console.log(res.data[i].owner.login)
-                    console.log(res.data[i].html_url)
-                    console.log(res.data[i].created_at.replace("T", " ").replace("Z", ""))
-                    console.log("-------------------------------------------------------------")
-                    */
-                    
+                                        
                     // Assign retrieved gist values to variables not to lose them and use them later in other HTTP requests
                     let id = res.data[i].id
                     let owner = res.data[i].owner.login
@@ -89,13 +79,10 @@ var cronJob = cron.job("0 */2 * * *", function(){
                             // Log search deal status code to both console and log file
                             console.log(`searchDealStatusCode: ${res.status}`)
                             logger.log("info", `searchDealStatusCode: ${res.status}`);
-                            //console.log(res);
-
+                            
                             // If the request is successful
                             if(res.data.success == true){
-                                //console.log("searchDealRequest: Success!")
-                                //console.log(res.data.data.items[0].item.title)
-                                
+                                                                
                                 // If no data returned from Pipedrive search
                                 if(res.data.data.items.length == 0){
                                     // Log to console and log file
@@ -196,6 +183,3 @@ var cronJob = cron.job("0 */2 * * *", function(){
     logger.log("info", "Cron job completed!")
 }); 
 cronJob.start()
-
-
-
